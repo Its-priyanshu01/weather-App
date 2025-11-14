@@ -6,9 +6,10 @@ A clean, modern, and fully responsive Weather Application built using **HTML**, 
 
 ## 📸 Screenshot (Output)
 
-> Replace the image below with the actual screenshot inside your repository at: `assets/screenshot.png`
+> Replace the image below with the actual screenshot inside your repository at: `assets/screenshot.png`<img width="952" height="445" alt="Screenshot 2025-11-15 014758" src="https://github.com/user-attachments/assets/77c4c6a9-840a-427d-8c9e-f9222ace9d66" />
 
-![Weather App Screenshot](assets/screenshot.png)
+
+![Weather App Screenshot]
 
 ---
 
